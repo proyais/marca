@@ -16,7 +16,7 @@ build <- function(svg, format, width) {
   system(export_command, wait = TRUE)
 }
 
-resoluciones <- c(1500, 1000, 500)
+resoluciones <- c(2560, 1500, 1000, 500)
 formatos <- c("png")
 
 for (nombre_archivo in archivos) {
