@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 708.66 708.66"
+   version="1.1"
+   sodipodi:docname="icono_tarifas_color.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata19">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs17">
+    <linearGradient
+       id="linearGradient2828"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop2826" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2820"
+       osb:paint="gradient">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop2816" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop2818" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient856"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop854" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="0.5"
+     inkscape:cx="580.6755"
+     inkscape:cy="279.34564"
+     inkscape:window-x="1080"
+     inkscape:window-y="399"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <circle
+     cx="354.33"
+     cy="354.33"
+     r="354.33"
+     style="fill:#09c"
+     id="circle2" />
+  <line
+     x1="681.51"
+     y1="348.76"
+     x2="681.51"
+     y2="335.19"
+     style="fill:none;stroke:#09c;stroke-miterlimit:10;stroke-width:5px"
+     id="line4" />
+  <line
+     x1="640.68"
+     y1="348.76"
+     x2="640.68"
+     y2="335.19"
+     style="fill:none;stroke:#09c;stroke-miterlimit:10;stroke-width:5px"
+     id="line6" />
+  <text
+     xml:space="preserve"
+     style="font-size:560px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     x="355.16977"
+     y="541.08997"
+     id="text2929"><tspan
+       sodipodi:role="line"
+       id="tspan2927"
+       x="355.16977"
+       y="541.08997"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:560px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff">$</tspan></text>
+</svg>
